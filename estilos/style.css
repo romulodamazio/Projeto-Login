@@ -49,7 +49,7 @@ transition-timing-function: ease;
 section#login > div#imagem {
     
     
-    display: block;
+    display: block ;
     background: #5f2c82 url(../imagens/metal.jpeg) no-repeat;
     background-size: cover;
     background-position: left bottom;
